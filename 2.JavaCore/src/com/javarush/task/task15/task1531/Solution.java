@@ -1,6 +1,5 @@
 package com.javarush.task.task15.task1531;
 
-import java.io.IOException;
 import java.math.BigInteger;
 import java.util.Scanner;
 
@@ -9,7 +8,7 @@ import java.util.Scanner;
 */
 
 public class Solution {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
         System.out.println(factorial(input));
