@@ -13,7 +13,6 @@ import java.math.BigInteger;
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-
         int input = Integer.parseInt(reader.readLine());
         reader.close();
 
