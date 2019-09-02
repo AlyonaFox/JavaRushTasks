@@ -13,6 +13,7 @@ target/
 *.jar
 
 /out/
+/8.Games/lib/
 /JavaRushPlugin.properties
 /Instruction.png
 /out.log
